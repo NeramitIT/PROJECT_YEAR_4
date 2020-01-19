@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PROJECT_YEAR_4</string>
+    <string name="facebook_app_id">548585679285436</string>
+    <string name="fb_login_protocol_scheme">fb548585679285436</string>
+
+    <string-array name="names">
+        <item>Male</item>
+        <item>Female</item>>
+    </string-array>
+
+    <string name="activity_main_bottom_screen_logs">Home</string>
+    <string name="activity_main_bottom_screen_progress">Progress</string>
+    <string name="activity_main_bottom_screen_profile">Profile</string>
+
+</resources>
