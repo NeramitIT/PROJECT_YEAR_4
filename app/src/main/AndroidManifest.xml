@@ -11,8 +11,13 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".User_ProfileActivity"></activity>
-        <activity android:name=".Main2Activity" />
+        <activity android:name=".Exercise_Activity">
+
+        </activity>
+        <activity android:name=".User_ProfileActivity" />
+        <activity android:name=".Main2Activity" >
+
+        </activity>
         <activity android:name=".New_PasswordActivity" />
         <activity android:name=".Forgot_PasswordActivity" />
         <activity android:name=".Step_CountActivity" />
